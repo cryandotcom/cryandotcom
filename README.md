@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Software Quality Engineer passionate about building 
 
 ## 🚀 About Me
 
-- 💻 Currently working on [describe your current project or focus, e.g., a full-stack app or machine learning models].
+- 💻 Currently working on refactoring my PlayWright Automation.
 - 🌱 Learning AI with QA Automation.
 - 🤝 Open to collaborating on open-source projects.
 - 🎯 Fun fact: I’m a Macintosh enthusiast.
