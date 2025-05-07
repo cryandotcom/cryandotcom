@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Ryan!
 
-Welcome to my GitHub! I'm a Software Quality Engineer passionate about building scalable web apps. I love collaborating on projects that solve real-world challenges.
+Welcome to my GitHub! I'm a Software Quality Engineer passionate about building scalable automation solutions. I love collaborating on projects that solve real-world challenges.
 
 🌍 Based in Ashland, Massachusetts  
 📫 Reach me at cryan@cryan.com  
