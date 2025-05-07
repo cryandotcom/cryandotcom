@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Software Quality Engineer passionate about building 
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, JavaScript, TypeScript, Bash
+- **Languages**: Python, JavaScript, TypeScript, Bash, SQL
 - **Tools**: Visual Studio Code, BBedit, XCode
 - **Other**: Bootstrap, Final Cut Pro, Postgres
 
